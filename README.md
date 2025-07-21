@@ -1,7 +1,3 @@
-Here's a **README.md** template for the **LangManus** project that provides an overview of the project, how to set it up, and how to use it. You can use or modify this for your GitHub repository.
-
----
-
 # LangManus GitHub Repo Analyzer
 
 **LangManus** is an open-source tool for automated analysis of GitHub repositories. It provides valuable insights into commit activity, trends, and contributions. By leveraging multiple **vertical** and **horizontal agents**, LangManus performs tasks such as scraping commit data, categorizing commits, generating charts, and producing detailed Markdown reports. It’s designed to help developers, project managers, and teams make data-driven decisions based on real-time repository analysis.
@@ -133,4 +129,3 @@ For questions or suggestions, feel free to reach out to \[[your-email@example.co
 * Adjust the installation and setup instructions if you have additional dependencies.
 * Make sure to include any relevant contribution guidelines or link to your **open issues** for contributors.
 
-This README will provide clear instructions on how to get started with **LangManus**, how to run it, and how others can contribute.
